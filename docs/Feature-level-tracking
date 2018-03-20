@@ -1,0 +1,10 @@
+# Feature-level tracking in geologic map databases
+
+Stephen M. Richard
+
+Geologic map database designs for the Arizona Geological Survey and prototypes for a US National Geologic Map Database included feature-level tracking for individual data items in the map database.  This 'tracking' (the term we used for 'provenance' or 'lineage' at the time) addressed two main use cases.
+
+1. Geologic maps are commonly produced by a team of geologists working in different parts of an area or on different groups of rocks (e.g. surfical and bedrock), and it is useful in the compilation of the final map to be able to trace individual mapped features to the geologist who mapped the feature. 
+
+2. geologic map data is commonly aggregated from various sources to produce compilations and deriviative maps, it is important that the lineage or provenance of features shown on various parts of the map could be traced back to original sources.
+
