@@ -8,3 +8,5 @@ Geologic map database designs for the Arizona Geological Survey and prototypes f
 
 2. geologic map data is commonly aggregated from various sources to produce compilations and deriviative maps, it is important that the lineage or provenance of features shown on various parts of the map could be traced back to original sources.
 
+
+A tracking record linked an activity, a citation, and a processing method. Citation provided a link to published literature from which an item was sourced. Activity 
